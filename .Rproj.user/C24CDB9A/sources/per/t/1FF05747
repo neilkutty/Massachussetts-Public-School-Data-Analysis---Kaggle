@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540942535777.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1092993126",
+    "id" : "1FF05747",
+    "lastKnownWriteTime" : 1537206637,
+    "last_content_update" : 1537206637,
+    "path" : "~/Documents/project/kaggle/Mass_Public_Schools/legacy.R",
+    "project_path" : "legacy.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

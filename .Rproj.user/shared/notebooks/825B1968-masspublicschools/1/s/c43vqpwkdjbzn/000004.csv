@@ -1,0 +1,7 @@
+"0","nf = num_data[,!colnames(num_data) %in% 'School.Name']"
+"0","corr_dat = cor(nf[,!colnames(nf) %in% c('x_graduated','x12_enrollment')], y = nf$x_graduated)"
+"0","corr_dat = as.data.frame(corr_dat)"
+"0","colnames(corr_dat) = 'cor'"
+"0","rownames(corr_dat) = rownames(corr_dat)"
+"0","corr_dat$cor = round(corr_dat$cor,3)"
+"0","v = corr_dat"

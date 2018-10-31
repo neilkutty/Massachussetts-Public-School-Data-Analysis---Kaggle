@@ -1,0 +1,3 @@
+"0","num_data = as.data.frame(prep_corr_data(m))"
+"0","kable(head(num_data[,1:5],10)) %>%"
+"0","  kable_styling(bootstrap_options = ""striped"", full_width = F, position = ""float_left"")"

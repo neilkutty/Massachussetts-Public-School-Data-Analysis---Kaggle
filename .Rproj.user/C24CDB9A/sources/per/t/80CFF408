@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540942541548.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1852332944",
+    "id" : "80CFF408",
+    "lastKnownWriteTime" : 1540604656,
+    "last_content_update" : 1540604656,
+    "path" : "~/Documents/project/kaggle/Mass_Public_Schools/mass_public_schools.R",
+    "project_path" : "mass_public_schools.R",
+    "properties" : {
+        "cursorPosition" : "209,0",
+        "scrollLine" : "171",
+        "source_window_id" : "wkhwa93c4a7jz"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
